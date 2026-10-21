@@ -14,11 +14,7 @@ authors:
     given-names: Reihaneh
     affiliation: "The University of Alabama"
     email: rzarrabi@crimson.ua.edu
-    # orcid: "https://orcid.org/XXXX-XXXX-XXXX-XXXX"
-  # Add teammates and mentors from the AGU poster here, in poster order, e.g.:
-  # - family-names: Lastname
-  #   given-names: Firstname
-  #   affiliation: "Institution"
+    orcid: "https://orcid.org/0009-0005-4747-6844"
 version: 1.0.1
 date-released: 2026-10-21
 doi: 10.5281/zenodo.23520221
