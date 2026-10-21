@@ -1,0 +1,36 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+type: software
+title: "Flood Building Damage Prediction for Hurricane Harvey Using NFIP Claims, Geospatial Data, and Machine Learning (CUAHSI-NOAA Summer Institute 2024)"
+abstract: >-
+  Data preprocessing and an XGBoost regression model that predict the mean NFIP
+  building damage amount per ZIP code for Hurricane Harvey (2017) in southeast Texas
+  and southwest Louisiana from insurance-derived building attributes, NLDAS
+  precipitation, terrain indices, land cover, and the Social Vulnerability
+  Index. Developed during the 2024 CUAHSI-NOAA National Water Center Summer
+  Institute and presented at AGU Fall Meeting 2024.
+authors:
+  - family-names: Zarrabi
+    given-names: Reihaneh
+    affiliation: "The University of Alabama"
+    email: rzarrabi@crimson.ua.edu
+    # orcid: "https://orcid.org/XXXX-XXXX-XXXX-XXXX"
+  # Add teammates and mentors from the AGU poster here, in poster order, e.g.:
+  # - family-names: Lastname
+  #   given-names: Firstname
+  #   affiliation: "Institution"
+version: 1.0.1
+date-released: 2026-10-21
+doi: 10.5281/zenodo.23520221
+license: MIT
+repository-code: "https://github.com/Reizrb/Flood_Building_Damage_Prediction_for_Hurricane_Harvey"
+keywords:
+  - flood damage
+  - National Flood Insurance Program
+  - NFIP
+  - Hurricane Harvey
+  - XGBoost
+  - machine learning
+  - social vulnerability
+  - CUAHSI Summer Institute
+  - National Water Center
